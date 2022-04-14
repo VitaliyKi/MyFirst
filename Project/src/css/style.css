@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(212, 192, 164);
+}
+h1 {
+    color: red;
+text-align:center;
+}
+h2{
+    text-align:center;
+}
+.text {
+    color:rgb(66, 66, 63);
+    font-style: oblique;
+}
+#naclon{
+    font-style: oblique;
+}  
+p {
+margin: 20px ;
+}
+
+img {
+    display: block;
+    margin:0 auto ;
+    width: 300px;
+}
